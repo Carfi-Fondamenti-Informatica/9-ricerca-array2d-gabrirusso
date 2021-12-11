@@ -3,4 +3,4 @@
 
 #endif //ESERCITAZIONE9_4_LIB_H
 
-bool funzione (char ,char , int );
+bool funzione (char listanomi[10][20],char nome[1][20], int &k );
